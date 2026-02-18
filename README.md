@@ -46,7 +46,7 @@ Real-time GPS tracking via ESP32 IoT devices with cellular connectivity, secure 
 **Graduation Project Team:**
 - [Barış Can Aslan](https://github.com/bariscanaslan)
 - [Yiğit Avar](https://github.com/yigitavar)
-- [Toprak Kamburoğlu](https://github.com/toprakk)
+- [Toprak Kamburoğlu](https://github.com/ToprakKamburoglu)
 
 **Project Advisor:** Dr. İlktan Ar
 
