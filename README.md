@@ -48,7 +48,7 @@ Real-time GPS tracking via ESP32 IoT devices with cellular connectivity, secure 
 - [Yiğit Avar](https://github.com/yigitavar)
 - [Toprak Kamburoğlu](https://github.com/ToprakKamburoglu)
 
-**Project Advisor:** Dr. İlktan Ar
+**Project Advisor:** Asst. Prof. İlktan Ar
 
 ---
 
